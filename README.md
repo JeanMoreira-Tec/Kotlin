@@ -7,3 +7,4 @@
 * Operadores comparativos
 * Operadores lógicos e operadores In e Range
 * Manipulação de Strings
+* Vazio X em Branco
