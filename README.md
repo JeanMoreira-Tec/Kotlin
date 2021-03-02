@@ -8,3 +8,4 @@
 * Operadores lógicos e operadores In e Range
 * Manipulação de Strings
 * Vazio X Branco
+* Função
