@@ -9,3 +9,7 @@
 * Manipulação de Strings
 * Vazio X Branco
 * Função
+* Funções single-line e Funções/extensões
+
+### Fundamentos de Orientação a Objetos com Kotlin
+* O que são membros e classe

@@ -1,0 +1,14 @@
+//Classe - Pessoa
+
+class Pessoa {
+    var nome: String = "Jenifer"
+    var cpf: String = "123.456.789-10"
+}
+
+fun main() {
+    val dadospessoa = Pessoa()
+    
+    println(dadospessoa.nome)
+    println(dadospessoa.cpf)
+    
+}
