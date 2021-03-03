@@ -1,0 +1,14 @@
+/*Empty X Blank (Empty para string em vazia que tem tamanho 0, Blank para string que contam espaços).
+Toda string Empty vai retorna true para blank*/
+
+fun main(){
+   val empty = ""    
+   println(empty.length)
+    
+   val blank = "       "
+   println(blank.length)
+   
+   println(empty.isEmpty() && empty.isBlank())
+   println(blank.isEmpty() && blank.isBlank())  
+  
+}

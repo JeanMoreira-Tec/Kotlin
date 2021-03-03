@@ -1,0 +1,19 @@
+//Cauculadora no Kotlin
+
+fun main() {
+    
+    val a = 12
+    val b = 2
+//Metodo para somar
+//fun sun(a: Int, b:Int) = a+b
+//Metodo para subtrair
+//fun subtrair(a:Int, b:Int) = a-b
+//Metodo para multiplicar
+//fun multiplicar(a:Int, b:Int) = a*b
+//Metodo dividir
+fun dividir(a:Int, b:Int) = a/b
+   
+    val resultado = dividir(a, b)
+   println(resultado)
+
+}
