@@ -1,0 +1,18 @@
+//Classse conta
+
+import java.math.BigDecimal //Impotando biblioteca BigDecialm do Java.
+
+class Conta{
+	val agencia: String
+    val numeroConta: String
+    val saldo: BigDecimal
+    
+}{
+    fun deposito(valor: BigDecimal) {
+        
+    }
+    
+    fun saque(valor: BigDecimal){
+        
+    }
+}

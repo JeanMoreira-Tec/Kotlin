@@ -5,7 +5,7 @@ class Pessoa {
     
     constructor()
     
-    fun dadosinfo() = "$nome e $cpf" //Unir nome com CPF para apresenstar informação unica
+    fun dadosinfo() = "$nome e o seu $cpf" //Unir nome com CPF para apresenstar informação unica
 }
 
 fun main() {
