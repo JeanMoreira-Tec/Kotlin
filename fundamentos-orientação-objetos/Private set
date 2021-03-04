@@ -1,0 +1,12 @@
+class Pessoa {
+    var nome: String = "Jenifer"
+    var cpf: String = "123.456.789-10"
+    private set //A variavel cpf torna-se dado privado que não pode ser alterado.
+}
+
+fun main() {
+    val dadospessoa = Pessoa()
+    println(dadospessoa.nome)
+    println(dadospessoa.cpf)
+    
+}

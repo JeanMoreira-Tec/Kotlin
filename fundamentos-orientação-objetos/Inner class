@@ -1,0 +1,23 @@
+class Pessoa {
+    var nome: String = "Jenifer"
+    var cpf: String = "123.456.789-10"
+    
+    inner class Endereco {
+        var UF: String = "DF"
+        var Cidade: String = "Sobradinho II"
+        var Tipo: String = "Conjunto"
+        var Logradouro: String = "Qr 01 Conjunto B"
+        var No: String = "15"
+        var CEP: String = "73.061.060"
+        
+    }
+}
+
+fun main() {
+    val dadospessoa = Pessoa()
+    
+    println(dadospessoa.nome)
+    println(dadospessoa.cpf)
+    println(dadospessoa.Endereco().UF)
+    
+}

@@ -13,3 +13,5 @@
 
 ### Fundamentos de Orientação a Objetos com Kotlin
 * O que são membros e classe
+* Membros das classes - Parte 1 Classe inner 
+* Membros das classes - Parte 2 private set
