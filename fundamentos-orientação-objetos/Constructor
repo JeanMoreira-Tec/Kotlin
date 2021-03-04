@@ -1,0 +1,16 @@
+class Pessoa {
+    var nome: String = "Jenifer"
+    var cpf: String = "123.456.789-10"
+    private set //A variavel cpf torna-se dado privado que não pode ser alterado.
+    
+    constructor()
+    
+    fun dadosinfo() = "$nome e $cpf" //Unir nome com CPF para apresenstar informação unica
+}
+
+fun main() {
+    val dadospessoa = Pessoa()
+    
+    println(dadospessoa.dadosinfo())
+    
+}
