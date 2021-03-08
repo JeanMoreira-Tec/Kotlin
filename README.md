@@ -17,3 +17,4 @@
 * Membros das classes - Parte 2 Private set
 * Membros das classes - Parte 3 Construtor
 * Membros das classes - Parte 4 Classe Conta
+* Entendendo sobre ENUM

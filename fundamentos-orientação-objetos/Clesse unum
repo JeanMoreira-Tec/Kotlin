@@ -1,0 +1,10 @@
+// Entendendo sobre ENUM
+
+enum class ClienteTipo(descricao: String) {
+    PF("Pessoas Fisica"),
+    PJ("Pessoa Juridica"):
+    
+    companion object {
+        fun printDescricao() = ClienteTipo
+    }
+} 
